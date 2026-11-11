@@ -1,0 +1,23 @@
+body{background-color: #12C700}
+
+h1{background-color: #88341B;
+	font-family: fantasy;
+	font-size: 45px;
+	text-align: center;
+	border-style: dotted;
+	border:5px dotted #FFFFFF;
+	padding: 30px ;
+	border-color: black;
+}
+p{text-align: center;
+	Float:none;
+	font-family: fantasy;}
+
+img{border-style: dotted;
+	border-width: 10px;
+	border-color: black;
+	display: block;}
+
+ul{color: #61210A;
+	font-family: fantasy;
+	text-decoration-color: color(#61210A);}
